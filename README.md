@@ -103,4 +103,41 @@ root/
 ├── .env.example
 ├── package.json
 └── README.md
+```
+## 📸 Screenshots
 
+### 📝 Register Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4262fae-108e-4dc0-8c28-9f163d56358c" alt="Register Page" width="600"/>
+</p>
+
+### 🔐 Login Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f1ba68c-a3bb-4baf-b519-b6ef7b77d8ee" alt="Login Page" width="600"/>
+</p>
+
+### 🏠 Home / Expense Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b77cbcd-bdb5-4dc6-8c11-af7f58f093b5" alt="Home Page" width="600"/>
+</p>
+
+### 🗂️ Category Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c89046e-745e-4dae-855a-8eff55e7460d" alt="Category Page" width="600"/>
+</p>
+
+### 📊 Dashboard & Analysis
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/299bb917-0abe-4ab3-a70f-85c47bd4d4a8" alt="Dashboard 1" width="600"/>
+  <img src="https://github.com/user-attachments/assets/28169d65-945c-44a8-8cc3-26dc3f63c7a8" alt="Dashboard 2" width="600"/>
+  <img src="https://github.com/user-attachments/assets/7314501b-1600-4cd6-873a-feead3eb2f38" alt="Dashboard 3" width="600"/>
+</p>
+
+### 👤 Profile Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c943e97-6142-4f4b-9c5e-709835df50fa" alt="Profile Page" width="600"/>
+</p>
+
+🎉 Acknowledgements 
+This project was developed as part of the eQuest Solutions Take-Home Assessment. 
+It demonstrates full-stack development, secure authentication, advanced analytics, and predictive budgeting.
